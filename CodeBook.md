@@ -11,18 +11,21 @@
 ##### Plese refer to README.md for detail steps performed for the analysis
 
 ### Variables used in the final tidy dataset
-"subject"  Unit 1
+* subject
+     Unit 1
       Possible Values:
-* 2  4  9 10 12 13 18 20 24  1  3  5  6  7  8 11 14 15 16 17 19 21 22 23 25 26 27 28 29 30
-"activity"
+ 2  4  9 10 12 13 18 20 24  1  3  5  6  7  8 11 14 15 16 17 19 21 22 23 25 26 27 28 29 30
+* activity
        Possible Values:
       Original                 Mapped discriptive value
-*   1            WALKING
-*   2   WALKING_UPSTAIRS
-*   3 WALKING_DOWNSTAIRS
-*   4            SITTING
-*   5           STANDING
-*   6             LAYING
+```
+ 1            WALKING
+ 2   WALKING_UPSTAIRS
+ 3 WALKING_DOWNSTAIRS
+ 4            SITTING
+ 5           STANDING
+ 6             LAYING
+ ```
 * timeDomainBodyAccelerometer-mean()-X-groupMean
 * timeDomainBodyAccelerometer-mean()-Y-groupMean
 * timeDomainBodyAccelerometer-mean()-Z-groupMean
