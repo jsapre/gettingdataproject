@@ -8,6 +8,8 @@
  4. Appropriately labels the data set with descriptive variable names. 
  5. From the data set in step 4, creates a second, independent tidy data set with 
 
+** Plese refer to README.md for detail steps performed for the analysis
+
 ### Variables used in the final tidy dataset
 "subject"  Unit 1
       Possible Values:
