@@ -8,7 +8,7 @@
  4. Appropriately labels the data set with descriptive variable names. 
  5. From the data set in step 4, creates a second, independent tidy data set with 
 
-** Plese refer to README.md for detail steps performed for the analysis
+##### Plese refer to README.md for detail steps performed for the analysis
 
 ### Variables used in the final tidy dataset
 "subject"  Unit 1
@@ -23,72 +23,72 @@
 *   4            SITTING
 *   5           STANDING
 *   6             LAYING
-"timeDomainBodyAccelerometer-mean()-X-groupMean"
-"timeDomainBodyAccelerometer-mean()-Y-groupMean"
-"timeDomainBodyAccelerometer-mean()-Z-groupMean"
-"timeDomainBodyAccelerometer-std()-X-groupMean"
-"timeDomainBodyAccelerometer-std()-Y-groupMean"
-"timeDomainBodyAccelerometer-std()-Z-groupMean"
-"timeDomainGravityAccelerometer-mean()-X-groupMean"
-"timeDomainGravityAccelerometer-mean()-Y-groupMean"
-"timeDomainGravityAccelerometer-mean()-Z-groupMean"
-"timeDomainGravityAccelerometer-std()-X-groupMean"
-"timeDomainGravityAccelerometer-std()-Y-groupMean"
-"timeDomainGravityAccelerometer-std()-Z-groupMean"
-"timeDomainBodyAccelerometerJerk-mean()-X-groupMean"
-"timeDomainBodyAccelerometerJerk-mean()-Y-groupMean"
-"timeDomainBodyAccelerometerJerk-mean()-Z-groupMean"
-"timeDomainBodyAccelerometerJerk-std()-X-groupMean"
-"timeDomainBodyAccelerometerJerk-std()-Y-groupMean"
-"timeDomainBodyAccelerometerJerk-std()-Z-groupMean"
-"timeDomainBodyGyroscope-mean()-X-groupMean"
-"timeDomainBodyGyroscope-mean()-Y-groupMean"
-"timeDomainBodyGyroscope-mean()-Z-groupMean"
-"timeDomainBodyGyroscope-std()-X-groupMean"
-"timeDomainBodyGyroscope-std()-Y-groupMean"
-"timeDomainBodyGyroscope-std()-Z-groupMean"
-"timeDomainBodyGyroscopeJerk-mean()-X-groupMean"
-"timeDomainBodyGyroscopeJerk-mean()-Y-groupMean"
-"timeDomainBodyGyroscopeJerk-mean()-Z-groupMean"
-"timeDomainBodyGyroscopeJerk-std()-X-groupMean"
-"timeDomainBodyGyroscopeJerk-std()-Y-groupMean"
-"timeDomainBodyGyroscopeJerk-std()-Z-groupMean"
-"timeDomainBodyAccelerometerMag-mean()-groupMean"
-"timeDomainBodyAccelerometerMag-std()-groupMean"
-"timeDomainGravityAccelerometerMag-mean()-groupMean"
-"timeDomainGravityAccelerometerMag-std()-groupMean"
-"timeDomainBodyAccelerometerJerkMag-mean()-groupMean"
-"timeDomainBodyAccelerometerJerkMag-std()-groupMean"
-"timeDomainBodyGyroscopeMag-mean()-groupMean"
-"timeDomainBodyGyroscopeMag-std()-groupMean"
-"timeDomainBodyGyroscopeJerkMag-mean()-groupMean"
-"timeDomainBodyGyroscopeJerkMag-std()-groupMean"
-"frequencyDomainBodyAccelerometer-mean()-X-groupMean"
-"frequencyDomainBodyAccelerometer-mean()-Y-groupMean"
-"frequencyDomainBodyAccelerometer-mean()-Z-groupMean"
-"frequencyDomainBodyAccelerometer-std()-X-groupMean"
-"frequencyDomainBodyAccelerometer-std()-Y-groupMean"
-"frequencyDomainBodyAccelerometer-std()-Z-groupMean"
-"frequencyDomainBodyAccelerometerJerk-mean()-X-groupMean"
-"frequencyDomainBodyAccelerometerJerk-mean()-Y-groupMean"
-"frequencyDomainBodyAccelerometerJerk-mean()-Z-groupMean"
-"frequencyDomainBodyAccelerometerJerk-std()-X-groupMean"
-"frequencyDomainBodyAccelerometerJerk-std()-Y-groupMean"
-"frequencyDomainBodyAccelerometerJerk-std()-Z-groupMean"
-"frequencyDomainBodyGyroscope-mean()-X-groupMean"
-"frequencyDomainBodyGyroscope-mean()-Y-groupMean"
-"frequencyDomainBodyGyroscope-mean()-Z-groupMean"
-"frequencyDomainBodyGyroscope-std()-X-groupMean"
-"frequencyDomainBodyGyroscope-std()-Y-groupMean"
-"frequencyDomainBodyGyroscope-std()-Z-groupMean"
-"frequencyDomainBodyAccelerometerMag-mean()-groupMean"
-"frequencyDomainBodyAccelerometerMag-std()-groupMean"
-"frequencyDomainBodyBodyAccelerometerJerkMag-mean()-groupMean"
-"frequencyDomainBodyBodyAccelerometerJerkMag-std()-groupMean"
-"frequencyDomainBodyBodyGyroscopeMag-mean()-groupMean"
-"frequencyDomainBodyBodyGyroscopeMag-std()-groupMean"
-"frequencyDomainBodyBodyGyroscopeJerkMag-mean()-groupMean"
-"frequencyDomainBodyBodyGyroscopeJerkMag-std()-groupMean"
+* timeDomainBodyAccelerometer-mean()-X-groupMean
+* timeDomainBodyAccelerometer-mean()-Y-groupMean
+* timeDomainBodyAccelerometer-mean()-Z-groupMean
+* timeDomainBodyAccelerometer-std()-X-groupMean
+* timeDomainBodyAccelerometer-std()-Y-groupMean
+* timeDomainBodyAccelerometer-std()-Z-groupMean
+* timeDomainGravityAccelerometer-mean()-X-groupMean
+* timeDomainGravityAccelerometer-mean()-Y-groupMean
+* timeDomainGravityAccelerometer-mean()-Z-groupMean
+* timeDomainGravityAccelerometer-std()-X-groupMean
+* timeDomainGravityAccelerometer-std()-Y-groupMean
+* timeDomainGravityAccelerometer-std()-Z-groupMean
+* timeDomainBodyAccelerometerJerk-mean()-X-groupMean
+* timeDomainBodyAccelerometerJerk-mean()-Y-groupMean
+* timeDomainBodyAccelerometerJerk-mean()-Z-groupMean
+* timeDomainBodyAccelerometerJerk-std()-X-groupMean
+* timeDomainBodyAccelerometerJerk-std()-Y-groupMean
+* timeDomainBodyAccelerometerJerk-std()-Z-groupMean
+* timeDomainBodyGyroscope-mean()-X-groupMean
+* timeDomainBodyGyroscope-mean()-Y-groupMean
+* timeDomainBodyGyroscope-mean()-Z-groupMean
+* timeDomainBodyGyroscope-std()-X-groupMean
+* timeDomainBodyGyroscope-std()-Y-groupMean
+* timeDomainBodyGyroscope-std()-Z-groupMean
+* timeDomainBodyGyroscopeJerk-mean()-X-groupMean
+* timeDomainBodyGyroscopeJerk-mean()-Y-groupMean
+* timeDomainBodyGyroscopeJerk-mean()-Z-groupMean
+* timeDomainBodyGyroscopeJerk-std()-X-groupMean
+* timeDomainBodyGyroscopeJerk-std()-Y-groupMean
+* timeDomainBodyGyroscopeJerk-std()-Z-groupMean
+* timeDomainBodyAccelerometerMag-mean()-groupMean
+* timeDomainBodyAccelerometerMag-std()-groupMean
+* timeDomainGravityAccelerometerMag-mean()-groupMean
+* timeDomainGravityAccelerometerMag-std()-groupMean
+* timeDomainBodyAccelerometerJerkMag-mean()-groupMean
+* timeDomainBodyAccelerometerJerkMag-std()-groupMean
+* timeDomainBodyGyroscopeMag-mean()-groupMean
+* timeDomainBodyGyroscopeMag-std()-groupMean
+* timeDomainBodyGyroscopeJerkMag-mean()-groupMean
+* timeDomainBodyGyroscopeJerkMag-std()-groupMean
+* frequencyDomainBodyAccelerometer-mean()-X-groupMean
+* frequencyDomainBodyAccelerometer-mean()-Y-groupMean
+* frequencyDomainBodyAccelerometer-mean()-Z-groupMean
+* frequencyDomainBodyAccelerometer-std()-X-groupMean
+* frequencyDomainBodyAccelerometer-std()-Y-groupMean
+* frequencyDomainBodyAccelerometer-std()-Z-groupMean
+* frequencyDomainBodyAccelerometerJerk-mean()-X-groupMean
+* frequencyDomainBodyAccelerometerJerk-mean()-Y-groupMean
+* frequencyDomainBodyAccelerometerJerk-mean()-Z-groupMean
+* frequencyDomainBodyAccelerometerJerk-std()-X-groupMean
+* frequencyDomainBodyAccelerometerJerk-std()-Y-groupMean
+* frequencyDomainBodyAccelerometerJerk-std()-Z-groupMean
+* frequencyDomainBodyGyroscope-mean()-X-groupMean
+* frequencyDomainBodyGyroscope-mean()-Y-groupMean
+* frequencyDomainBodyGyroscope-mean()-Z-groupMean
+* frequencyDomainBodyGyroscope-std()-X-groupMean
+* frequencyDomainBodyGyroscope-std()-Y-groupMean
+* frequencyDomainBodyGyroscope-std()-Z-groupMean
+* frequencyDomainBodyAccelerometerMag-mean()-groupMean
+* frequencyDomainBodyAccelerometerMag-std()-groupMean
+* frequencyDomainBodyBodyAccelerometerJerkMag-mean()-groupMean
+* frequencyDomainBodyBodyAccelerometerJerkMag-std()-groupMean
+* frequencyDomainBodyBodyGyroscopeMag-mean()-groupMean
+* frequencyDomainBodyBodyGyroscopeMag-std()-groupMean
+* frequencyDomainBodyBodyGyroscopeJerkMag-mean()-groupMean
+* frequencyDomainBodyBodyGyroscopeJerkMag-std()-groupMean
 
 # Summary of the final data given by str()
 ```
